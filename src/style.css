@@ -59,6 +59,18 @@ a {
     line-height: 1;
     position:relative;
 }
+
+.weather-forecast-date {
+    text-align: center;
+}
+
+.wetaher-forecast-icon {
+    text-align: center;
+}
+
+.weather-forecast-temperatures {
+    text-align: center;
+}
 header {
     border-bottom: 1px solid #f9f7fe;
     padding: 30px 0;
