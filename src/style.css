@@ -37,6 +37,7 @@ a {
 
 .weather-app-container {
     display:flex;
+    align-items: center;
 }
 
 .weather-app-icon {
